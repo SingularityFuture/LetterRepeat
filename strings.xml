@@ -16,4 +16,5 @@
     <string name="anyString">Add any string of characters</string>
     <string name="lookbackNumber"># for Lookback</string>
     <string name="lookBackLabel">Lookback #:</string>
+    <string name="action_settings">Actions</string>
 </resources>

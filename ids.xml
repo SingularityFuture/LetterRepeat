@@ -7,4 +7,5 @@
     <item name="string4" type="id">string4</item>
     <item name="output" type="id">output</item>
     <item name="lookback" type="id">lookback</item>
+    <item name="addString" type="id">addString</item>
 </resources>
