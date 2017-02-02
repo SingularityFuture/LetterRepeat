@@ -17,4 +17,5 @@
     <string name="lookbackNumber"># for Lookback</string>
     <string name="lookBackLabel">Lookback #:</string>
     <string name="action_settings">Actions</string>
+    <string name="newValue">Enter in new string</string>
 </resources>
