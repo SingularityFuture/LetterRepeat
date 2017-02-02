@@ -14,4 +14,6 @@
     <string name="runProcessing">Run Letter Repeat</string>
     <string name="output">Output</string>
     <string name="anyString">Add any string of characters</string>
+    <string name="lookbackNumber"># for Lookback</string>
+    <string name="lookBackLabel">Lookback #:</string>
 </resources>
