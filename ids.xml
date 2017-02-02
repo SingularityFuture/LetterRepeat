@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="runProcessing" type="id">runProcessing</item>
+    <item name="string1" type="id">string1</item>
+    <item name="string2" type="id">string2</item>
+    <item name="string3" type="id">string3</item>
+    <item name="string4" type="id">string4</item>
+    <item name="ouptut" type="id">output</item>
+</resources>

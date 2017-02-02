@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LetterRepeat</string>
+    <string name="strings">Strings:</string>
+    <string name="defaultString1">argbasdlkawenbasdfljkqpe9rgslahganmbcvnms,.cfmqorweugsurhg;albkn</string>
+    <string name="defaultString2">smnx,bscgouqrewtuopiqwertj/fmb/xz.,mbsao;fejg;oeqwrtueghvsdfirdj</string>
+    <string name="defaultString3">tajafygkuhefjgl;kqwremgns;dvios;bpy zvfituwefgybjknqwe.gmv,bcl </string>
+    <string name="defaultString4">sdifuoghalksdljrtnqwmertfg;lkabnv,.m</string>
+    <string-array name="stringArray">
+        <item>@string/defaultString1</item>
+        <item>@string/defaultString2</item>
+        <item>@string/defaultString3</item>
+        <item>@string/defaultString4</item>
+    </string-array>
+    <string name="runProcessing">Run Letter Repeat</string>
+    <string name="output">Output</string>
+</resources>
