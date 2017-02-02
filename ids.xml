@@ -5,5 +5,5 @@
     <item name="string2" type="id">string2</item>
     <item name="string3" type="id">string3</item>
     <item name="string4" type="id">string4</item>
-    <item name="ouptut" type="id">output</item>
+    <item name="output" type="id">output</item>
 </resources>

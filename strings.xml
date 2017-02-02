@@ -13,4 +13,5 @@
     </string-array>
     <string name="runProcessing">Run Letter Repeat</string>
     <string name="output">Output</string>
+    <string name="anyString">Add any string of characters</string>
 </resources>
